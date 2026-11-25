@@ -2,7 +2,7 @@
 
 here you'll find mostly things like:
 * my collection of programs i dumped here during school
-* my old website's code (before i moved to [~maemo](https://tilde.club/~maemo)
+* my old website's code (before i moved to [~maemo](https://tilde.club/~maemo))
 * *really* old locales for sudomemo (as in the flipnote hatena revival service)
 * maybe some work stuff i forgot to private
 * my "coding" attempts as a child (for context i joined github when i was 8)
